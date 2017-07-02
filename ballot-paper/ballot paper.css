@@ -1,0 +1,23 @@
+body {
+    background-color:#ddba83;
+}
+div{text-align:center;}
+h3 {
+
+}
+p {
+    color: black;
+   font-family: 'UnifrakturMaguntia', cursive;
+}
+div.ja-box {
+    position: absolute;
+    top: 650px;
+    right: 0;
+    width: 1340px;
+    height: 0px}
+
+div.nein-box{
+	position:absolute;
+	top: 645px;
+	width:1320px
+}
