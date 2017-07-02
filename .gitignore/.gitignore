@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>election</title>
+	<link rel="stylesheet"  href="ballot paper.css">
+	 <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=UnifrakturMaguntia">
+    <style>
+      body {
+        font-family: 'UnifrakturMaguntia', cursive;
+        font-size: 48px;
+      }
+    </style>
+</head>
+<body>
+<div>
+<h4 style="text-decoration:underline">Boltsabstimmung und Großbeutscher Reichstag</h4>
+<p style="font-size:30pt">Stimmzettel</p>
+<p style="font-size:20pt">Bist Du mit der am 13. März 1938 vollzogenen</p>
+<p style="font-weight:900; font-size:23pt">Wiebervereittigung Österreichs mit dem Deutschen Reich</p>
+<p style="font-size:20pt">einverstanden und Du für die Lifte unseres Führers</p>
+<p style="font-size:50pt; font-weight:900">Adolf Hitler?</p>
+<p style="font-size:30pt; word-spacing:90pt">Ja Nein</p>
+</div>
+<div class="ja-box">
+<input type="radio"style="WIDTH: 40px; HEIGHT: 40px" >
+</div>
+<div class="nein-box">
+	<input type="radio" style="width:5px">
+</div>
+</body>
+</html>
